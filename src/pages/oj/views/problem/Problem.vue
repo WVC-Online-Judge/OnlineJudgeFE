@@ -539,7 +539,8 @@
     p.content {
       margin-left: 25px;
       margin-right: 20px;
-      font-size: 15px
+      font-size: 15px;
+      word-break: normal !important;
     }
     .sample {
       align-items: stretch;
@@ -620,10 +621,6 @@
     margin-top: 20px;
     width: 500px;
     height: 480px;
-  }
-
-  .content {
-    word-break: normal !important;
   }
 </style>
 
