@@ -622,7 +622,7 @@
     height: 480px;
   }
 
-  * {
+  .content {
     word-break: normal !important;
   }
 </style>
