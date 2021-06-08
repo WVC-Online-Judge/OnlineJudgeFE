@@ -621,5 +621,9 @@
     width: 500px;
     height: 480px;
   }
+
+  * {
+    word-break: normal !important;
+  }
 </style>
 
